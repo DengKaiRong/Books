@@ -1,1 +1,3 @@
-# iOS_Advance_Resource
+>本repo用于存放开发相关的书籍电子版,均来自网络,如有侵权,请与我联系.
+>E-mail: dengsir@goldenbeetech.com
+>Wechat: dengsir058
